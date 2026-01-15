@@ -43,7 +43,7 @@ This project is designed from a **business and sales perspective**, aligning wit
 ## 📁 Files Included
 
 - 📊 **Power BI File:**  
-  👉 [Walmart_Sales_Analysis.pbix](Walmart_Sales_Analysis.pbix)
+  👉 👉 [Download Walmart_Sales_Analysis.pbix]https://github.com/TufailAnalytics/PowerBI-walmart-sales-analysis/raw/refs/heads/main/screenshots/Walmart_Sales_Analysis.pbix
 
 - 🖼 **Dashboard Screenshots:**  
   `screenshots/`
