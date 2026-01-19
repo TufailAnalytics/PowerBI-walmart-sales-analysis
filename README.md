@@ -45,10 +45,6 @@ This project is designed from a **business and sales perspective**, aligning wit
 - 📊 **Power BI File:**  
   👉 👉 [Download Walmart_Sales_Analysis.pbix]https://github.com/TufailAnalytics/PowerBI-walmart-sales-analysis/raw/refs/heads/main/screenshots/Walmart_Sales_Analysis.pbix
 
-- 🖼 **Dashboard Screenshots:**  
-  `screenshots/`
-
-
 ## 🚀 How to Use
 1. Download the `.pbix` file
 2. Open using **Power BI Desktop**
